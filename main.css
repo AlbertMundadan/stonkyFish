@@ -1,0 +1,57 @@
+.button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+ 
+#About {
+    background-color: #EA0b43;
+    padding: 10px;
+    margin: 0px 10px;
+    border-radius: 10px;
+  }
+
+.footer {
+    padding: 5px;
+    background-Color: #EA0b43;
+    color: white;
+    margin: -8px;
+}
+
+#footer{
+    padding: 2px;
+    display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#Creator {float:left; margin-left:10px; font-family: 'Gajraj One', serif;}  
+#Name {margin-left:10px; float:left;font-family: 'Gajraj One', serif;} 
+#Created {float:right;margin-right:10px; font-family: 'Gajraj One', serif;}  
+
+
+.header {
+    padding: 5px;
+    background-Color: #EA0b43;
+    color: white;
+    margin: -8px;
+}
+
+#Name {
+    font-family: 'Gajraj One', serif;
+    }
+
+#Title{
+        font-family: 'Gajraj One', serif;
+        }
+#Sub-title{
+    font-family: 'Gajraj One', serif;
+            }
+    
+
+
+
+#About{
+    color: white;
+    font-family: 'Gajraj One', serif;
+}

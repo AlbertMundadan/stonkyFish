@@ -1,0 +1,60 @@
+p {
+    font-family: "Figtree", serif;
+ }
+
+
+.title {
+    font-size: 90px;
+    letter-spacing: 7px;
+    font-family: 'Gajraj One', serif;
+}
+
+
+
+
+
+
+.text-big {
+    font-family: 'Figtree', serif;
+    /* font-weight: bold; */
+    font-size: 80px;
+    margin: 35px;
+}
+
+
+.text-small {
+    font-size: 20px;
+    font-family: 'Figtree', serif;
+    margin: 50px;
+}
+
+
+#Creator {float:left; margin-left:10px; font-family: 'Gajraj One', serif;}  
+#Name {margin-left:10px; float:left;font-family: 'Gajraj One', serif;}
+#Created {float:right;margin-right:10px; font-family: 'Gajraj One', serif;}  
+
+
+
+
+
+
+
+
+.footer {
+    padding: 5px;
+    background-Color: #EA0b43;
+    color: white;
+    margin: -8px;
+}
+
+
+
+
+#footer{
+    padding: 2px;
+    display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+ 

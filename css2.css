@@ -1,0 +1,75 @@
+.tracks {
+    color: black;
+    font-family: "Gajraj One", serif;
+    font-size: 1.5rem
+ }
+ 
+ 
+ .track-buttons {
+    font-size: 2.5rem
+ }
+ 
+ 
+ #investment-button {
+    color: black;
+    font-family: "Gajraj One", serif;
+    font-size: 1.5rem
+ }
+ 
+ 
+ #retirement-button {
+    color: black;
+    font-family: "Gajraj One", serif;
+    font-size: 1.5rem
+ }
+ 
+ 
+ #bank-loan-button {
+    color: black;
+    font-family: "Gajraj One", serif;
+    font-size: 1.5rem
+ }
+ 
+ 
+ #budgeting-button {
+    color: black;
+    font-family: "Gajraj One", serif;
+    font-size: 1.5rem
+ }
+ 
+ 
+ #credit-debit-button {
+    color: black;
+    font-family: "Gajraj One", serif;
+    font-size: 1.5rem
+ }
+ 
+ 
+ #financial-terms-button {
+    color: black;
+    font-family: "Gajraj One", serif;
+    font-size: 1.5rem
+ }
+ 
+ 
+ .footer {
+    padding: 5px;
+    background-Color: #EA0b43;
+    color: white;
+    margin: -8px;
+    font-family: "Gajraj One", serif;
+ }
+ 
+ 
+ #footer{
+    padding: 2px;
+    display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-family: "Gajraj One", serif;
+ }
+ 
+ 
+ #Creator {float:left; margin-left:10px; font-family: 'Gajraj One', serif;} 
+ #Name {margin-left:10px; float:left;font-family: 'Gajraj One', serif;}
+ #Created {float:right;margin-right:10px; font-family: 'Gajraj One', serif;} 
